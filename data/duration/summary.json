@@ -1,0 +1,48 @@
+[
+  {
+    "file": "notes-120ms.mp3",
+    "notes": 8,
+    "export": "notes-120ms.mp3.mid",
+    "reference_count": 8,
+    "matched": 8,
+    "unmatched_output": 0,
+    "peak_dbfs": "-7.5585"
+  },
+  {
+    "file": "notes-30ms.mp3",
+    "notes": 0,
+    "export": null,
+    "message": "No sustained notes found. Try a clearer melody with one note at a time.",
+    "reference_count": 8,
+    "matched": 0,
+    "unmatched_output": 0,
+    "peak_dbfs": "-7.5585"
+  },
+  {
+    "file": "notes-45ms.mp3",
+    "notes": 8,
+    "export": "notes-45ms.mp3.mid",
+    "reference_count": 8,
+    "matched": 8,
+    "unmatched_output": 0,
+    "peak_dbfs": "-7.5585"
+  },
+  {
+    "file": "notes-60ms.mp3",
+    "notes": 8,
+    "export": "notes-60ms.mp3.mid",
+    "reference_count": 8,
+    "matched": 8,
+    "unmatched_output": 0,
+    "peak_dbfs": "-7.5585"
+  },
+  {
+    "file": "notes-90ms.mp3",
+    "notes": 8,
+    "export": "notes-90ms.mp3.mid",
+    "reference_count": 8,
+    "matched": 8,
+    "unmatched_output": 0,
+    "peak_dbfs": "-7.5585"
+  }
+]

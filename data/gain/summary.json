@@ -1,0 +1,47 @@
+[
+  {
+    "file": "peak-minus-24dbfs.wav",
+    "notes": 8,
+    "export": "peak-minus-24dbfs.wav.mid",
+    "reference_count": 8,
+    "matched": 8,
+    "unmatched_output": 0,
+    "peak_dbfs": "-24.0"
+  },
+  {
+    "file": "peak-minus-38dbfs.wav",
+    "notes": 8,
+    "export": "peak-minus-38dbfs.wav.mid",
+    "reference_count": 8,
+    "matched": 8,
+    "unmatched_output": 0,
+    "peak_dbfs": "-38.0"
+  },
+  {
+    "file": "peak-minus-52dbfs.wav",
+    "notes": 8,
+    "export": "peak-minus-52dbfs.wav.mid",
+    "reference_count": 8,
+    "matched": 8,
+    "unmatched_output": 0,
+    "peak_dbfs": "-52.0001"
+  },
+  {
+    "file": "peak-minus-66dbfs.wav",
+    "notes": 3,
+    "export": "peak-minus-66dbfs.wav.mid",
+    "reference_count": 8,
+    "matched": 3,
+    "unmatched_output": 0,
+    "peak_dbfs": "-66.0005"
+  },
+  {
+    "file": "peak-minus-8dbfs.wav",
+    "notes": 8,
+    "export": "peak-minus-8dbfs.wav.mid",
+    "reference_count": 8,
+    "matched": 8,
+    "unmatched_output": 0,
+    "peak_dbfs": "-8.0"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "chrome": "157.0.8103.52",
+  "records": [
+    {
+      "file": "peak-minus-24dbfs.wav",
+      "notes": 8,
+      "export": "peak-minus-24dbfs.wav.mid"
+    },
+    {
+      "file": "peak-minus-38dbfs.wav",
+      "notes": 8,
+      "export": "peak-minus-38dbfs.wav.mid"
+    },
+    {
+      "file": "peak-minus-52dbfs.wav",
+      "notes": 8,
+      "export": "peak-minus-52dbfs.wav.mid"
+    },
+    {
+      "file": "peak-minus-66dbfs.wav",
+      "notes": 3,
+      "export": "peak-minus-66dbfs.wav.mid"
+    },
+    {
+      "file": "peak-minus-8dbfs.wav",
+      "notes": 8,
+      "export": "peak-minus-8dbfs.wav.mid"
+    }
+  ]
+}
