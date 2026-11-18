@@ -63,6 +63,14 @@ python scripts/score-fixtures.py build/regenerated/duration --output build/curre
 python scripts/score-fixtures.py build/regenerated/gain --output build/current/gain
 ```
 
+## Licenses
+
+The audio fixtures, MIDI outputs, reference-event CSVs, per-note results, browser logs, summary JSON, and this README are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE-DATA). Attribute the dataset to Noteline and cite the version you use.
+
+The source code in `scripts/`, `requirements.txt`, and repository configuration files are licensed under the [MIT License](LICENSE-CODE).
+
+The license texts grant these permissions for the v1.0.0 benchmark files as well as the matching files on the main branch.
+
 ## Cite this benchmark
 
 Noteline. *Noteline MP3-to-MIDI benchmarks*. November 17, 2026. [Dataset and scripts, v1.0.0](https://github.com/wanyongtao1988/mp3-to-midi-benchmarks/tree/v1.0.0).
