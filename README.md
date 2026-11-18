@@ -73,4 +73,4 @@ The license texts grant these permissions for the v1.0.0 benchmark files as well
 
 ## Cite this benchmark
 
-wanyongtao1988. (2026). *Noteline MP3-to-MIDI benchmarks* (v1.0.0) [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.24346025](https://doi.org/10.5281/zenodo.24346025).
+Noteline. (2026). *Noteline MP3-to-MIDI benchmarks* (v1.0.0) [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.24346025](https://doi.org/10.5281/zenodo.24346025).
